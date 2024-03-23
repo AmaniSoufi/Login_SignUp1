@@ -3,7 +3,8 @@
 
 
 ## Getting Started
-![Uploading Colorful Freelancer YouTube Thumbnail (10).png…]()
+![Colorful Freelancer YouTube Thumbnail (10)](https://github.com/Amani454/Login_SignUp1/assets/144737903/d282d7be-cb1c-4abe-b47e-4ab3d359ae07)
+
 
 This project is a starting point for a Flutter application.
 
